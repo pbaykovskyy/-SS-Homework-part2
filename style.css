@@ -1,0 +1,94 @@
+body{
+	background-color: #b8b8b8;
+	font-size: 13px;
+	line-height: 18px;
+	color: #333;
+}
+#content{
+	width: 800px;
+	margin:auto; 
+	padding: 50px 70px;
+	background-color:#fff 
+}
+h1{
+	font-size: 26px;
+	line-height: 30px;
+	color: #333;
+	font-weight: normal;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+h2{
+	font-size: 36px;
+	line-height: 46px;
+	color: #333;
+	font-weight: normal;
+	font-style: italic;
+	margin-top: 40px;
+	margin-bottom: 20px;
+
+}
+.fixed{
+	position: fixed;
+	top: 20px;
+	right: 0px;
+	width: 200px;
+	padding: 20px;
+	font-style: italic;
+	background-color: #666;
+	color: #fff;
+
+}
+#puzzle{
+	position: relative;
+	width: 650px;
+	height: 514px;
+	border: 5px #333 solid;
+	background: url("img/v4/v4-watermark.jpg") no-repeat 0 0;
+	background-position: 0px 0px;
+	margin: 0 auto;
+	}
+ #puzzle img{
+ 	position: absolute;
+ }
+ 
+ #puzzle #img1 {top: 0px; left: 0px;
+ }
+ #puzzle #img2 {top: 0px; left: 127px;
+ }
+ #puzzle #img3 {top: 0px; left: 217px;
+ }
+ #puzzle #img4 {top: 0px; left: 397px;
+ }
+ #puzzle #img5 {top: 0px; left: 479px;
+ }
+ #puzzle #img6 {top: 84px; left: 0px;
+ }
+ #puzzle #img7 {top: 122px; left: 92px;
+ }
+ #puzzle #img8 {top: 200px; left: 190px;
+ }
+ #puzzle #img9 {top: 135px; left: 355px;
+ }
+ #puzzle #img10 {top: 92px; left: 515px;
+ }
+ #puzzle #img11 {top: 257px; left: 0px;
+ }
+ #puzzle #img12 {top: 216px; left: 128px;
+ }
+ #puzzle #img13 {top: 254px; left: 217px;
+ }
+ #puzzle #img14 {top: 214px; left: 388px;
+ }
+ #puzzle #img15 {top: 257px; left: 578px;
+ }
+ #puzzle #img16 {top: 340px; left: 0px;
+ }
+ #puzzle #img17 {top: 379px; left: 91px;
+ }
+ #puzzle #img18 {top: 351px; left: 256px;
+ }
+ #puzzle #img19 {top: 420px; left: 386px;
+ }
+ #puzzle #img20 {top: 400px; left: 598px;
+ }
